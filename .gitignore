@@ -1,0 +1,8 @@
+venv
+.pycache
+pycache
+.vscode
+data
+.idea
+.ipynb_checkpoints
+.DS_Store
